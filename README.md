@@ -1,5 +1,5 @@
 # STMLIBs
-This repository is used to host STM32 library files and build them into corresponding library files using GUN.
+This repository is used to host STM32 library files and build them into corresponding library files by GUN.
 
 # Note:
 	Startup and link files are not provided.
